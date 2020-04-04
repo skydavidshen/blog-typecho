@@ -197,7 +197,7 @@ EOF
 		$_var_6->addInput($_var_18);
 		$_var_6->addItem(new EndSymbol(2));
 		$_var_6->addItem(new Title('初级设置', '首页名称、首页标题后缀、博主的名称、博主的介绍、首页一行文字介绍、favicon地址、头像图片地址、博客公告消息'));
-		$_var_19 = new Text('IndexName', NULL, '友人C', _t('首页名称'), _t('首页显示的名称，不是标题，显示在顶部导航栏的左侧。标题需要在<code>后台设置——基本设置</code>里修改，博客标题会显示在首页的头像的右侧'));
+		$_var_19 = new Text('IndexName', NULL, 'Pippi Shen', _t('首页名称'), _t('首页显示的名称，不是标题，显示在顶部导航栏的左侧。标题需要在<code>后台设置——基本设置</code>里修改，博客标题会显示在首页的头像的右侧'));
 		$_var_6->addInput($_var_19);
 		$_var_20 = new Text('indexNameIcon', NULL, '', _t('首页名称左侧的图标'), '<strong style=\'color: red\'>填写举例：<code>glyphicon glyphicon-eur</code></strong></br>首页标题左侧的图标，所有可用的图标列表详见<a href=\'https://handsome.ihewro.com/#/icons\'>图标列表</a>');
 		$_var_6->addInput($_var_20);

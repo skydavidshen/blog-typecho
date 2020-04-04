@@ -1,12 +1,6 @@
 <?php
 /**
- * 人世间悲喜烂剧 昼夜轮播不停 /
- * 纷飞的滥情男女 情仇爱恨别离 /
- * 一代人终将老去 但总有人正年轻
- * @package handsome
- * @author 友人C
  * @version 6.0.0
- * @link https://www.ihewro.com/archives/489/
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
