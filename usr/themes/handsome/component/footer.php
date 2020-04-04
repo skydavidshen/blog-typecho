@@ -5,10 +5,11 @@
     <div class="wrapper bg-light">
       <span class="pull-right hidden-xs text-ellipsis">
       <?php $this->options->BottomInfo(); ?>
-      Powered by <a target="_blank" href="http://www.typecho.org">Typecho</a>&nbsp;|&nbsp;Theme by <a target="_blank"
-                                                                                                     href="https://www.ihewro.com/archives/489/">handsome</a>
+          Powered by <a target="_blank" href="http://www.typecho.org">Typecho</a>
+          &nbsp;|&nbsp;
+          Theme by <a target="_blank" href="https://www.ihewro.com/archives/489/">handsome</a>
       </span>
-        <span class="text-ellipsis">&copy;&nbsp;<?php echo date("Y");?> Copyright&nbsp;<?php
+      <span class="text-ellipsis">&copy;&nbsp;<?php echo date("Y");?> Copyright&nbsp;<?php
             $this->options->BottomleftInfo(); ?></span>
     </div>
       <!--可以去除主题版权信息，最好保留版权信息或者添加主题信息到友链，谢谢你的理解-->
