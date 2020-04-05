@@ -142,7 +142,7 @@ class Lang_en extends Lang {
             '著作权归作者所有' => 'The copyright belongs to the author',
             '转载请联系作者获得授权，并注明转载地址' => 'Please contact the author to obtain authorization, and indicate the reprint address',
             '赞赏作者' => 'Appreciate the author',
-            '赞赏' => 'Support',
+            '客官，欢迎打赏' => 'Support',
             '扫一扫支付' => 'Sweeping payments',
             '上一篇' => 'Previous',
             '下一篇' => 'Next',

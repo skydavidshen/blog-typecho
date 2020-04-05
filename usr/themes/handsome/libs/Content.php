@@ -614,7 +614,7 @@ EOF;
         }
         $returnHtml =  '
              <div class="support-author">
-                 <button data-toggle="modal" data-target="#myModal" class="btn btn-pay btn-danger btn-rounded"><i class="fontello fontello-wallet" aria-hidden="true"></i>&nbsp;' . _mt("赞赏") . '</button>
+                 <button data-toggle="modal" data-target="#myModal" class="btn btn-pay btn-danger btn-rounded"><i class="fontello fontello-wallet" aria-hidden="true"></i>&nbsp;' . _mt("客官，欢迎打赏") . '</button>
                  <div class="mt20 text-center article__reward-info">
                      <span class="mr10">' . $payTips . '</span>
                  </div>
